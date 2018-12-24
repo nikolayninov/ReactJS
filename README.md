@@ -1,2 +1,1 @@
-# ReactJS 
-<img src='https://cdn-images-1.medium.com/max/800/1*N_6DIrFp3b3qv3WTDohqxg.png' width="120">
+<img src='http://moduscreate.com/wp-content/uploads/2014/03/react-opti.png' height="150">
